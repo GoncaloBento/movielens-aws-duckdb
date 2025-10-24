@@ -1,0 +1,3 @@
+Virtual Environment needed libraries:
+- Python version: 3.17.3
+- Install Pandas
