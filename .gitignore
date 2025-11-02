@@ -207,7 +207,12 @@ marimo/_lsp/
 __marimo__/
 
 data/ml-100k/*
+!data/ml-100k/.gitkeep
 data/ml-1m/*
+!data/ml-1m/.gitkeep
 data/ml-10m/*
+!data//ml-10m/.gitkeep
 results/*
+!results/.gitkeep
 database/*
+!ddatabase/.gitkeep
