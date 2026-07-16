@@ -3,7 +3,6 @@ Big Data Foundations project – MovieLens dataset analysis (DuckDB + AWS S3 + A
 
 # Big Data Foundations – MovieLens Project
 
-**Group 22 | Deadline:** 22 November 2025  
 **Stack:** DuckDB (Local) | AWS S3 + Athena + Glue (Cloud)
 
 ## Goals
